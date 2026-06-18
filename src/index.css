@@ -9,3 +9,14 @@
 html {
   font-size: 62.5%;
 }
+
+@media  (max-width: 550px), (max-height: 550px){
+  html {
+    font-size: 50%;
+  }
+}
+@media(max-height: 600px){
+  html{
+    font-size: 45%;
+  }
+}
