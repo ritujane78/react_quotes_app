@@ -157,6 +157,9 @@
     column-gap: 1rem;
     margin-bottom: 2rem;
 }
+.buttons{
+    cursor: pointer;
+}
 .btn-close {
     position: absolute;
     top: 3rem;
